@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gabe2008
+- 👋 Hi, I’m Gabriel Vesperman
 - 👀 I’m interested in programing and robotics
-- 🌱 I’m currently learning html, java, and other fun programming languages
-- 💞️ I’m looking to collaborate on ...?
-- 📫 How to reach me ...?
+- 🌱 I’m currently learning java, javascript, and html
+- 💞️ I’m not looking to collaborate at the moment
+- 📫 You can reach me at gabe.vroom@gmail.com or Gabe#2390 on discord
 
 <!---
 Gabe2008/Gabe2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
